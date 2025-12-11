@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/@lokendra-nath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokendra-nath" height="30" width="40" /></a>
 <a href="https://fb.com/@lokedra nath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lokedra nath" height="30" width="40" /></a>
-<a href="https://instagram.com/@__lokendra__nath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__lokendra__nath" height="30" width="40" /></a>
+<a href="https://instagram.com/__lokendra__nath/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__lokendra__nath" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@lokendranathloki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lokendranathloki" height="30" width="40" /></a>
 </p>
 
